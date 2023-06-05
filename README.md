@@ -10,9 +10,9 @@ MTD (MyTestDownloader) — Скрипт, написанный на Python, со�
 *config.ini*:
 ```
 [SETTINGS]
-SERVER_IP = '127.0.0.1'
-SERVER_PORT = '7777'
-CLIENT_NAME = 'User'
+SERVER_IP = 127.0.0.1
+SERVER_PORT = 7777
+CLIENT_NAME = User
 ```
 
 - **SERVER_IP** — Название (или IP) компьютера-сервера
