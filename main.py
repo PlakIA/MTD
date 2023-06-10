@@ -4,9 +4,9 @@ import subprocess
 import time
 from pathlib import Path
 
-ip = 'Main301'
+ip = 'Main308'
 port = 5005
-user_pc = 'K301-15'
+user_pc = 'K308-15'
 server = None
 client = None
 test_path = os.getcwd()
